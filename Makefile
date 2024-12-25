@@ -1,5 +1,7 @@
 all: protocol opensnitch_daemon gui
 
+fuck
+
 install:
 	@cd daemon && make install	
 	@cd ui && make install
